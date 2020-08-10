@@ -1,0 +1,21 @@
+@font-face{
+	font-family: 'menu';
+	src:url(fonts/SourceSerifPro-Regular.ttf);
+}
+@font-face{
+	font-family: 'logo';
+	src:url(fonts/Shrikhand-Regular.ttf);
+}
+@font-face 
+{
+  font-family:'Unicode';
+  src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.ttf') format('ttf');
+}
+@font-face{
+	font-family: 'lex';
+	src:url(fonts/LexendZetta-Regular.ttf);
+}
+@font-face{
+	font-family: 'ranch';
+	src:url(fonts/Ranchers-Regular.ttf);
+}
